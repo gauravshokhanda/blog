@@ -3,9 +3,9 @@ import Head from 'next/head'
 import { Categories, PostCard ,PostWidget } from '../components';
 
 const posts =[
-  {title:"hhapt",excerpt:"new loop"},
-  {title:"text",excerpt:"tempsadsdsdasdasdasdale"},
-  {title:"body",excerpt:"nsdasd"}
+  {title:"hhapt",excerpt:"new array "},
+  {title:"text",excerpt:"gaurav "},
+  {title:"body",excerpt:"happy nending"}
 ]
 
 console.log(posts)
