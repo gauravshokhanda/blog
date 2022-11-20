@@ -5,7 +5,7 @@ import { Categories, PostCard ,PostWidget } from '../components';
 const posts =[
   {title:"hhapt",excerpt:"new array "},
   {title:"text",excerpt:"gaurav "},
-  {title:"body",excerpt:"happy n=ending"}
+  {title:"body",excerpt:"happy nending"}
 ]
 
 console.log(posts)
