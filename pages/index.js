@@ -4,7 +4,7 @@ import { Categories, PostCard ,PostWidget } from '../components';
 
 const posts =[
   {title:"hhapt",excerpt:"new loop"},
-  {title:"text",excerpt:"temple"},
+  {title:"text",excerpt:"tempsadsdsdasdasdasdale"},
   {title:"body",excerpt:"nsdasd"}
 ]
 
